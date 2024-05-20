@@ -1,13 +1,11 @@
 import './App.css'
 
 function App() {
-
-
   return (
     <>
-      <h1>HEELO</h1>
+      <h1 style={{ backgroundColor: "red" }}>Hello</h1>
     </>
   )
 }
 
-export default App
+export default App;
